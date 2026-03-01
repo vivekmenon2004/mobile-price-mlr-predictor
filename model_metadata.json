@@ -1,0 +1,35 @@
+{
+    "brands": [
+        "Apple",
+        "Asus",
+        "Google",
+        "Honor",
+        "Infinix",
+        "Lava",
+        "Micromax",
+        "Motorola",
+        "Nokia",
+        "Nothing",
+        "OnePlus",
+        "Oppo",
+        "Poco",
+        "Realme",
+        "Redmi",
+        "Samsung",
+        "Sony",
+        "Vivo",
+        "iQOO"
+    ],
+    "num_samples": 50,
+    "features": [
+        "Brand",
+        "RAM_GB",
+        "Storage_GB",
+        "Battery_mAh",
+        "Camera_MP",
+        "Display_Inch",
+        "Processor_GHz",
+        "Brand_Rating",
+        "Price"
+    ]
+}
